@@ -1,22 +1,22 @@
 ---
 layout: default
-title: cronologia
+title: 
 ---
 
 <head>
-  <link rel="shortcut icon" type="image/png" href="/images/favicon.png"
+  <link rel="shortcut icon" type="image/png" href="/media/favicon.png"
 </head>
 
-<h1>{{ page.title }}</h1>
+
 
    {% for post in site.posts %}
   <article>
-    <h2>
+    <h4>
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    </h4>
+  
     {{ post.content }}
   </article>
 {% endfor %}

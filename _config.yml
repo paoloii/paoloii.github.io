@@ -1,2 +1,2 @@
 name: paolo i.
-permalink: /notes/:year/:month/:day/:title
+permalink: :year-:month-:day-:title

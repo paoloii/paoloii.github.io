@@ -1,0 +1,86 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    float: none;
+    text-align: justify;
+    font-family: "EB Garamond", serif;
+}
+
+
+nav {
+    margin: auto;
+    float: none;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
+a.stealth {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1.67em;
+}
+
+
+
+.left {
+    padding-left: 8px;
+}
+
+.right {
+    padding-right: 8px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td.ex {
+    padding-left: 16px;
+}
+
+
+
+/* Light mode by Davy de Vries */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+/* Dark mode by Davy de Vries */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}

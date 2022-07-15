@@ -1,0 +1,134 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    float: none;
+    text-align: justify;
+    word-break:break-word;
+    font-family: 'Academica Book', serif;
+    font-size: 24px;
+}
+
+@font-face {
+    font-family: 'Academica Book';
+    src: url('/media/AcademicaBook.eot');
+    src: url('/media/AcademicaBook.eot?#iefix') format('embedded-opentype'),
+        url('/media/AcademicaBook.woff2') format('woff2'),
+        url('/media/AcademicaBook.woff') format('woff'),
+        url('/media/AcademicaBook.ttf') format('truetype'),
+        url('/media/AcademicaBook.svg#AcademicaBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Academica Book';
+    src: url('/media/AcademicaBook-Bold.eot');
+    src: url('/media/AcademicaBook-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/media/AcademicaBook-Bold.woff2') format('woff2'),
+        url('/media/AcademicaBook-Bold.woff') format('woff'),
+        url('/media/AcademicaBook-Bold.ttf') format('truetype'),
+        url('/media/AcademicaBook-Bold.svg#AcademicaBook-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Academica Book';
+    src: url('/media/AcademicaBook-Italic.eot');
+    src: url('/media/AcademicaBook-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/media/AcademicaBook-Italic.woff2') format('woff2'),
+        url('/media/AcademicaBook-Italic.woff') format('woff'),
+        url('/media/AcademicaBook-Italic.ttf') format('truetype'),
+        url('/media/AcademicaBook-Italic.svg#AcademicaBook-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+nav {
+    margin: auto;
+    float: none;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: firebrick;
+}
+
+a.stealth {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1.67em;
+}
+
+h4 {text-align: center;
+    font-size: small;
+    color: indigo;}
+
+h5 {text-align: center;
+    font-size: 80%;
+color: slategray;}    
+
+
+
+.left {
+    padding-left: 8px;
+}
+
+.right {
+    padding-right: 8px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td.ex {
+    padding-left: 16px;
+}
+
+
+
+/* Light mode by Davy de Vries */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+/* Dark mode by Davy de Vries */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}

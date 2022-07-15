@@ -11,8 +11,32 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0200</lastBuildDate>
 		
+		
+			<item>
+				<title>2022-07-15-T17.03.42</title>
+				
+				
+					<description>&lt;p&gt;devo fermarmi, è perfetto così. sufficientemente anonimo, perlomeno a uno sguardo esterno, cui appare praticamente devitalizzato, anche se sotto scialacqua fumante non poco magma. e per il resto si tratta soltanto di brevi note. ieri ho fatto persino un tentativo di integrarle nell’archivio privato, ma qualcosa è andato storto, nel senso che per farlo mi sono reso conto che la versione corrente dell’archivio privato presentava non poche beghe che mi erano sfuggite nella fretta e furia con cui l’avevo dovuto assemblare per salvarlo dall’ennesima cancellazione. pagina bianca cosa? qui devo tenere soltanto a mente le due righe di front matter. la barriera è sempre più prossima allo zero.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-07-15-T17.03.42</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-07-15-T17.03.42</guid>
+			</item>
+		
+			<item>
+				<title>2022-07-15-T16.58.35</title>
+				
+				
+					<description>&lt;p&gt;viene fuori che ho sbagliato: ho messo un’immagine e il mero dato ha interrotto il flusso, portandomi a un arresto. però l’immagine è così bella che non ho alcuna voglia di toglierla. e nessuna voglia di restare in arresto, come una battuta. dunque dovrò proseguire.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-07-15-T16.58.35</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-07-15-T16.58.35</guid>
+			</item>
 		
 			<item>
 				<title>2022-07-10-T19.28.39</title>

@@ -11,8 +11,20 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0200</lastBuildDate>
 		
+		
+			<item>
+				<title>2022-07-18-T15.20.38</title>
+				
+				
+					<description>&lt;p&gt;la cosa più sensata, va detto, è prendere e spegnerlo, questo computer, toglierlo almeno per qualche giorno — per &lt;em&gt;questi&lt;/em&gt; giorni — dalla postazione temporanea sul piedistallo di quattro paperback tedeschi lasciati indietro dagli ospiti precedenti, e arrendersi al pensiero che senza necessità immanente di rendere si può anche evitare di provare a produrre. l’afa è asfissiante e la piscina emozionale, tanto è cheta la tensione in superficie, potrebbe anche essere piena di candiru. prima, forse un’ora fa, mentre mi ustionavo sul sundeck d’emergenza, udivo tra le grida dell’acufene e il frinire di cicale il distinguibilissimo rombo d’un temporale in lontananza. con gli occhi mi sono messo a scrutare l’estensione dell’orizzonte, che dopo una cinquantina di ore ancora non sono riuscito a capire verso che nodo cardinale volga, ma non ho visto indizio di nulla del genere. poi, finita la sigaretta, via dentro, nel clima differito della refrigerazione d’ambiente, ad accucciare le dita sulla tastiera mentre i polsi si spaccano contro l’orlo ligneo del tavolo di piastrelle.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 18 Jul 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-07-18-T15.20.38</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-07-18-T15.20.38</guid>
+			</item>
 		
 			<item>
 				<title>2022-07-16-T16.47.14</title>

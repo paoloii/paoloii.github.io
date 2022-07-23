@@ -4,7 +4,6 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    word-break:break-word;
     background-color: white;
     font-family: 'Work Sans', sans-serif;
     font-size: 1.2em;
@@ -31,8 +30,7 @@ nav ul li {
 blockquote p {padding: 10px;
     background-color: transparent;
     color: firebrick;
-    font-size: 1em;
-    width: 80%;
+    font-size: 0.9em;
     border-radius: 5px;}
 
 

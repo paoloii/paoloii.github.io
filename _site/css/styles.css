@@ -1,12 +1,14 @@
 body {
-    max-width: 800px;
+    max-width: 600px;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
     word-break:break-word;
-    font-family: serif;
+    background-color: white;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1.2em;
+    color:black;
 }
 
 
@@ -27,7 +29,9 @@ nav ul li {
 }
 
 blockquote p {padding: 10px;
-    background-color: #ffcc30;
+    background-color: transparent;
+    color: firebrick;
+    font-size: 1em;
     width: 80%;
     border-radius: 5px;}
 
@@ -60,7 +64,7 @@ h4 {text-align: center;
     color: indigo;}
 
 h5 {text-align: center;
-    font-size: 1.em;
+    font-size: 0.9em;
     font-weight: 300;
 color: slategray;}    
 
@@ -81,22 +85,4 @@ color: slategray;}
 
 td.ex {
     padding-left: 16px;
-}
-
-
-
-/* Light mode by Davy de Vries */
-@media (prefers-color-scheme: light) {
-    body {
-        background-color: white;
-        color: black;
-    }
-}
-
-/* Dark mode by Davy de Vries */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: white;
-        color: black;
-    }
 }

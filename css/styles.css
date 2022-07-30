@@ -1,11 +1,11 @@
 body {
-    max-width: 90%;
+    max-width: 800px;
     margin: auto;
     padding: 20px;
     float: none;
-    text-align: left;
+    text-align: justify;
     font-family: 'Academica Book', serif;
-    font-size: 4vw;
+    font-size: 1.4em;
     color:white;
     background-color: black;
 }
@@ -67,9 +67,8 @@ nav ul li {
 
 blockquote p {padding: 10px;
     background-color: transparent;
-    color: firebrick;
-    font-size: 0.9em;
-    border-radius: 5px;}
+    color: palegoldenrod;
+    font-size: 0.9em;}
 
 a {
     text-decoration: none;
@@ -88,9 +87,10 @@ h3 {
 }
 
 h4 {text-align: center;
-    font-size: 50%;
+    font-size: 70%;
     font-weight: 300;
-    color: indigo;}
+    color: white;
+	text-transform: uppercase;}
 
 h5 {text-align: center;
     font-size: 0.9em;

@@ -5,14 +5,62 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 >
 	<channel>
-		<title>paolo i.</title>
+		<title>tsunami notes</title>
 		<description></description>		
 		<sy:updatePeriod>daily</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0200</lastBuildDate>
 		
+		
+			<item>
+				<title>2022-08-06-T03.13.24</title>
+				
+				
+					<description>&lt;p&gt;sapevo di foglie secche, lacero, gli occhi esplosi&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 06 Aug 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-08-06-T03.13.24</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-08-06-T03.13.24</guid>
+			</item>
+		
+			<item>
+				<title>2022-08-05-T08.27.59</title>
+				
+				
+					<description>&lt;p&gt;poi ore — persino un giorno — dopo, volevo scrivere che in quest’assedio sembra pressoché impossibile ritenere un’anche singola stilla della propria concentrazione: l’attenzione torna appunto al suo ancestrale ondivagare, insaziabile, inarrestata, e bisogna convincersi che solo un punto su potenziali milioni la valga per portare a termine o solo verso il compimento alcunché.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 05 Aug 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-08-05-T08.27.59</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-08-05-T08.27.59</guid>
+			</item>
+		
+			<item>
+				<title>2022-08-04-T19.27.09</title>
+				
+				
+					<description>&lt;p&gt;dal rogo dell’estate la giovinezza esala a fumi e ottunde.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-08-04-T19.27.09</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-08-04-T19.27.09</guid>
+			</item>
+		
+			<item>
+				<title>2022-08-04-T19.11.29</title>
+				
+				
+					<description>&lt;p&gt;non capita sovente di prepararsi a un debutto. il tesauro elenca scipiti &lt;em&gt;commiato&lt;/em&gt;, &lt;em&gt;congedo&lt;/em&gt; e &lt;em&gt;addio alle scene&lt;/em&gt; al suo antipode, ma a questo punto dell’orbita s’è più propensi a ravvedervi un forbito &lt;em&gt;permanere eseguendo&lt;/em&gt;, con la speranza d’aver idea anche già pallida del demone che ci ha portati a calcare la scena e dei suoi oscillanti grappoli di moti.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/2022-08-04-T19.11.29</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-08-04-T19.11.29</guid>
+			</item>
 		
 			<item>
 				<title>2022-07-28-T16.58.26</title>
@@ -84,54 +132,6 @@
 				<pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
 				<link>http://localhost:4000/2022-07-15-T17.59.19</link>
 				<guid isPermaLink="true">http://localhost:4000/2022-07-15-T17.59.19</guid>
-			</item>
-		
-			<item>
-				<title>2022-07-15-T17.03.42</title>
-				
-				
-					<description>&lt;p&gt;devo fermarmi, è perfetto così. sufficientemente anonimo, perlomeno a uno sguardo esterno, cui appare praticamente devitalizzato, anche se sotto scialacqua fumante non poco magma. e per il resto si tratta soltanto di brevi note. ieri ho fatto persino un tentativo di integrarle nell’archivio privato, ma qualcosa è andato storto, nel senso che per farlo mi sono reso conto che la versione corrente dell’archivio privato presentava non poche beghe che mi erano sfuggite nella fretta e furia con cui l’avevo dovuto assemblare per salvarlo dall’ennesima cancellazione. pagina bianca cosa? qui devo tenere soltanto a mente le due righe di front matter. la barriera è sempre più prossima allo zero.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/2022-07-15-T17.03.42</link>
-				<guid isPermaLink="true">http://localhost:4000/2022-07-15-T17.03.42</guid>
-			</item>
-		
-			<item>
-				<title>2022-07-15-T16.58.35</title>
-				
-				
-					<description>&lt;p&gt;viene fuori che ho sbagliato: ho messo un’immagine e il mero dato ha interrotto il flusso, portandomi a un arresto. però l’immagine è così bella che non ho alcuna voglia di toglierla. e nessuna voglia di restare in arresto, come una battuta. dunque dovrò proseguire.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 15 Jul 2022 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/2022-07-15-T16.58.35</link>
-				<guid isPermaLink="true">http://localhost:4000/2022-07-15-T16.58.35</guid>
-			</item>
-		
-			<item>
-				<title>2022-07-10-T19.28.39</title>
-				
-				
-					<description>&lt;p&gt;&lt;img src=&quot;/media/a6000-0540.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 10 Jul 2022 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/2022-07-10-T19.28.39</link>
-				<guid isPermaLink="true">http://localhost:4000/2022-07-10-T19.28.39</guid>
-			</item>
-		
-			<item>
-				<title>2022-07-10-T16.07.01</title>
-				
-				
-					<description>&lt;p&gt;ecco, l’esigenza di andare avanti a scrivere per un po’, senza farsi troppi problemi su quello che si vede comparire a schermo, di modo poi da avere due o tre righe compatte di testo, o roghi di letterine, &lt;em&gt;senza troppi problemi,&lt;/em&gt; per testare tutto fino in fondo; e queste stesse righe che non significano nulla, e che dovranno restare qui, per un po’, a segnare il posto, sperando che la folgore non ci colga nel frattempo.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 10 Jul 2022 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/2022-07-10-T16.07.01</link>
-				<guid isPermaLink="true">http://localhost:4000/2022-07-10-T16.07.01</guid>
 			</item>
 		
 	</channel>

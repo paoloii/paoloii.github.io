@@ -17,18 +17,19 @@ img {
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-r.woff2") format("woff2");
+    src: url("/media/dolby-r.woff") format("woff");
+    font-style: normal;
   }
 
   @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-i.woff2") format("woff2");
+    src: url("/media/dolby-i.woff") format("woff");
 font-style: italic;  
 }
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-b.woff2") format("woff2");
+    src: url("/media/dolby-b.woff") format("woff");
     font-weight: bold;  
 }
 

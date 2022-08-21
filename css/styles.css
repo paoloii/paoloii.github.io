@@ -1,11 +1,11 @@
 body {
-    max-width: 800px;
+    max-width: 720px;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
     font-family: "Dolby", serif;
-    font-size: 140%;
+    font-size: 21px;
     color:black;
     background-color: white;
     line-height: 1.5;
@@ -17,28 +17,22 @@ img {
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-r.woff") format("woff");
+    src: url("/media/dolby-r.woff2") format("woff2");
     font-style: normal;
   }
 
   @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-i.woff") format("woff");
+    src: url("/media/dolby-i.woff2") format("woff2");
 font-style: italic;  
 }
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-b.woff") format("woff");
+    src: url("/media/dolby-b.woff2") format("woff2");
     font-weight: bold;  
 }
 
-@font-face {
-    font-family: "Stack";
-    src: url("/media/stack-v.woff2") format("woff2");
-font-weight: 1 999;  
-font-stretch: 0% 100%;
-}
 
 nav {
     margin: auto;
@@ -59,7 +53,6 @@ nav ul li {
 blockquote p {padding: 10px;
     background-color: transparent;
     color: firebrick;
-    font-family: "Stack", sans-serif;
     font-size: 90%;}
 
 a {
@@ -70,8 +63,7 @@ a {
 
 h1 {
     text-align: center;
-    font-family: "Stack", sans-serif;
-    font-weight: 600;
+    font-weight: bold;
     font-size: 200%;
 }
 
@@ -82,14 +74,11 @@ h3 {
 }
 
 h4 {text-align: center;
-	font-family: "Stack", sans-serif;
-    font-size: 70%;
-    font-weight: 300;
+    font-size: 100%;
     color: black;
 	text-transform: uppercase;}
 
 h5 {text-align: center;
-	font-family: "Stack", sans-serif;
     font-size: 0.8em;
 	font-weight: 300;
 color: slategray;}    

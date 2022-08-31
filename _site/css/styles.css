@@ -6,8 +6,8 @@ body {
     text-align: left;
     font-family: "Dolby", serif;
     font-size: 21px;
-    color:black;
-    background-color: white;
+    color:white;
+    background-color: black;
     line-height: 1.5;
 }
 
@@ -33,6 +33,23 @@ font-style: italic;
     font-weight: bold;  
 }
 
+@font-face {
+    font-family: "Stereo";
+    src: url("/media/stereo-r.woff") format("woff");
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Stereo";
+    src: url("/media/stereo-i.woff") format("woff");
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: "Stereo";
+    src: url("/media/stereo-b.woff") format("woff");
+    font-style: bold;
+  }
 
 nav {
     margin: auto;
@@ -52,8 +69,9 @@ nav ul li {
 
 blockquote p {padding: 10px;
     background-color: transparent;
-    color: firebrick;
-    font-size: 90%;}
+    color: goldenrod;
+    font-family: "Stereo", serif;
+    font-size: 70%;}
 
 a {
     text-decoration: none;
@@ -75,7 +93,6 @@ h3 {
 
 h4 {text-align: center;
     font-size: 80%;
-    color: black;
 	text-transform: uppercase;}
 
 h5 {text-align: center;

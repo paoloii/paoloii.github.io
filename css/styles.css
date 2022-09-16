@@ -36,14 +36,8 @@ font-style: italic;
 
 @font-face {
     font-family: "Stereo";
-    src: url("/media/stereo-r.woff") format("woff");
+    src: url("/media/stereo-r.woff2") format("woff2");
     font-style: normal;
-  }
-
-  @font-face {
-    font-family: "Stereo";
-    src: url("/media/stereo-i.woff") format("woff");
-    font-style: italic;
   }
 
 

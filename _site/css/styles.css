@@ -7,8 +7,8 @@ body {
     font-family: "Dolby", serif;
     font-size: 21px;
     color: #000;
-    background-color: whitesmoke;
-    font-variant-ligatures: none;
+    background-color: white;
+    font-variant-ligatures: normal;
     line-height: 1.5;
 }
 
@@ -36,14 +36,8 @@ font-style: italic;
 
 @font-face {
     font-family: "Stereo";
-    src: url("/media/stereo-r.woff") format("woff");
+    src: url("/media/stereo-r.woff2") format("woff2");
     font-style: normal;
-  }
-
-  @font-face {
-    font-family: "Stereo";
-    src: url("/media/stereo-i.woff") format("woff");
-    font-style: italic;
   }
 
 
@@ -65,9 +59,9 @@ nav ul li {
 
 blockquote p {padding: 10px;
     background-color: transparent;
-    color: midnightblue;
-    font-family: "Stereo", serif;
-    font-size: 70%;}
+    color: firebrick;
+    font-family: "Stereo", sans-serif;
+    font-size: 84%;}
 
 a {
     text-decoration: none;

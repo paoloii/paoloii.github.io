@@ -14,6 +14,7 @@ body {
 
 img {
     max-width: 100%;
+    filter: grayscale(100%);
   }
 
 @font-face {
@@ -34,13 +35,6 @@ font-style: italic;
     font-weight: bold;  
 }
 
-@font-face {
-    font-family: "Stereo";
-    src: url("/media/stereo-r.woff2") format("woff2");
-    font-style: normal;
-  }
-
-
 nav {
     margin: auto;
     float: none;
@@ -59,13 +53,16 @@ nav ul li {
 
 blockquote p {padding: 10px;
     background-color: transparent;
-    color: firebrick;
-    font-family: "Stereo", sans-serif;
-    font-size: 84%;}
+    font-size: 90%;
+    border:solid 3px #41403E;
+    margin: 0 1rem;
+    padding: 0.8rem 1rem;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;}
 
 a {
     text-decoration: none;
-    color: firebrick;
+    font-weight: bold;
+    color:black;
 }
 
 
@@ -83,12 +80,16 @@ h3 {
 
 h4 {text-align: center;
     font-size: 80%;
-	text-transform: uppercase;}
+	text-transform: uppercase;
+    color:black;
+    -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+}
 
 h5 {text-align: center;
     font-size: 0.8em;
 	font-weight: 300;
-color: slategray;}    
+color: black;}    
 
 .avatar {
     vertical-align: middle;

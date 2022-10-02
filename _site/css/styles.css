@@ -1,11 +1,11 @@
 body {
-    max-width: 620px;
+    max-width: 50ch;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: "Dolby", serif;
-    font-size: 21px;
+    font-family: "Dolby", monospace;
+    font-size: 20px;
     color: #000;
     background-color: white;
     font-variant-ligatures: normal;
@@ -19,19 +19,19 @@ img {
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-r.woff") format("woff");
+    src: url("/media/dolby-r.woff2") format("woff2");
     font-style: normal;
   }
 
   @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-i.woff") format("woff");
+    src: url("/media/dolby-i.woff2") format("woff2");
 font-style: italic;  
 }
 
 @font-face {
     font-family: "Dolby";
-    src: url("/media/dolby-b.woff") format("woff");
+    src: url("/media/dolby-b.woff2") format("woff2");
     font-weight: bold;  
 }
 

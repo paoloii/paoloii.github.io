@@ -5,11 +5,12 @@ body {
     float: none;
     text-align: left;
     font-family: "Dolby", serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: #000;
     background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.5;
+    font-smooth: always;
 }
 
 img {

@@ -5,7 +5,7 @@ body {
     float: none;
     text-align: left;
     font-family: "Dolby", serif;
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: #000;
     background-color: white;
     font-variant-ligatures: normal;
@@ -13,10 +13,31 @@ body {
     font-smooth: always;
 }
 
+::selection {
+    background: lightgray;
+  }
+
 img {
     max-width: 100%;
     filter: grayscale(100%);
   }
+
+nav {
+    margin: auto;
+    float: none;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
 
 @font-face {
     font-family: "Dolby";
@@ -36,29 +57,11 @@ font-style: italic;
     font-weight: bold;  
 }
 
-nav {
-    margin: auto;
-    float: none;
-    text-align: center;
-}
-
-nav ul {
-    padding: 0px;
-    list-style: none;
-}
-
-nav ul li {
-    display: inline;
-    margin: 5px;
-}
-
 blockquote p {padding: 10px;
     background-color: transparent;
-    font-size: 90%;
-    border:solid 3px #41403E;
     margin: 0 1rem;
     padding: 0.8rem 1rem;
-    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;}
+}
 
 a {
     text-decoration: none;

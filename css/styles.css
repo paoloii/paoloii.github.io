@@ -1,11 +1,11 @@
 body {
-    max-width: 54ch;
+    max-width: 50ch;
     margin: auto;
     padding: 20px;
     float: none;
-    text-align: justify;
-    font-family: Inter, system-ui, sans-serif;
-    font-size: 1em;
+    text-align: left;
+    font-family: serif;
+    font-size: calc(0.75em + 3vmin);
     color: #000;
     background-color: white;
     font-variant-ligatures: normal;
@@ -68,8 +68,8 @@ h4 {text-align: center;
     font-size: 80%;
 	text-transform: uppercase;
     color:black;
-    -webkit-filter: grayscale(80%);
-   filter: grayscale(80%);
+    -webkit-filter: grayscale(60%);
+   filter: grayscale(60%);
 }
 
 h5 {text-align: center;

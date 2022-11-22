@@ -4,7 +4,7 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: serif;
+    font-family: Dolby, serif;
     font-size: calc(0.75em + 3vmin);
     color: #000;
     background-color: white;
@@ -12,6 +12,12 @@ body {
     line-height: 1.5;
     font-smooth: always;
 }
+
+@font-face {
+    font-family: "Dolby";
+    src: url("/media/dolby-r.woff2") format("woff2");
+    font-style: normal;
+  }
 
 ::selection {
     background: #ffe988;

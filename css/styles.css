@@ -19,6 +19,18 @@ body {
     font-style: normal;
   }
 
+  @font-face {
+    font-family: "Dolby";
+    src: url("/media/dolby-i.woff2") format("woff2");
+font-style: italic;  
+}
+
+@font-face {
+    font-family: "Dolby";
+    src: url("/media/dolby-b.woff2") format("woff2");
+    font-weight: bold;  
+}
+
 ::selection {
     background: #ffe988;
   }

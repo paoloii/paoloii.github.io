@@ -6,8 +6,8 @@ body {
     text-align: left;
     font-family: Dolby, serif;
     font-size: calc(0.75em + 3vmin);
-    color: #000;
-    background-color: white;
+    color: white;
+    background-color: black;
     font-variant-ligatures: normal;
     line-height: 1.5;
     font-smooth: always;
@@ -58,6 +58,7 @@ nav ul li {
 
 blockquote p {padding: 10px;
     background-color: #ffe988;
+    color: black;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
@@ -85,7 +86,7 @@ h3 {
 h4 {text-align: center;
     font-size: 80%;
 	text-transform: uppercase;
-    color:black;
+    color:white;
     -webkit-filter: grayscale(60%);
    filter: grayscale(60%);
 }

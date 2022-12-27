@@ -6,8 +6,8 @@ body {
     text-align: left;
     font-family: Dolby, serif;
     font-size: calc(0.75em + 3vmin);
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.5;
     font-smooth: always;
@@ -37,7 +37,6 @@ font-style: italic;
 
 img {
     max-width: 100%;
-    filter: grayscale(100%);
   }
 
 nav {
@@ -90,9 +89,7 @@ h3 {
 h4 {text-align: center;
     font-size: 80%;
 	text-transform: uppercase;
-    color:white;
-    -webkit-filter: grayscale(60%);
-   filter: grayscale(60%);
+    color:black;
 }
 
 h5 {text-align: center;

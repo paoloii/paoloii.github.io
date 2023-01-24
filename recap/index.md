@@ -11,6 +11,6 @@ per tutti gli altri e altre che naufraghe schiantano qui dove non c’è approdo
 
 per il momento ho scelto di non condividere le oltre quattrocentomila parole che a questo indirizzo e altri, di tanto in tanto sottraendole all’accesso, ho pubblicato in rete negli anni. potrei aver deciso di impiegarle in altro modo. riparto da zero perché come ho avuto modo già di dire, le pagine bianche mi intrigano, e si offrono spesso come unica soluzione.
 
-<h4>*</h4>
+<h4 id="NOAI">*</h4>
 
 si diffida chiunque dall’includere questo sito e ognuna delle sue pagine in ogni sorta di dataset assemblato all’addestramento d’intelligenze artificiali o dedito a qualsivoglia obiettivo ipercapitalistico autoperpetuante. è diritto umano basilare avanzare questa diffida e basilare comportamento animale rivendicarla con daga, livore, aggressione e inarrestabili malefici.

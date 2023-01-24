@@ -60,7 +60,9 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    background-color: #ffe988;
+    background-color: #fcfee6;
+    border-radius: 155px 15px 125px 15px/15px 125px 15px 155px;
+    border:solid 5px firebrick;
     color: black;
     margin: 0 1rem;
     text-align: left;
@@ -69,7 +71,6 @@ blockquote p {padding: 10px;
 
 a {
     text-decoration: none;
-    font-weight: normal;
     color: firebrick;
 }
 

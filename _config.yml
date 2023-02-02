@@ -1,2 +1,6 @@
+author: Paolo Ippoliti
 name: tsunami notes
+lang: it
+url: "https://tsunaminotes.org"
+baseurl: ""
 permalink: :year-:month-:day-:title

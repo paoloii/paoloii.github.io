@@ -1,5 +1,5 @@
 body {
-    max-width: 50ch;
+    max-width: 60ch;
     margin: auto;
     padding: 20px;
     float: none;
@@ -31,12 +31,19 @@ font-style: italic;
     font-weight: bold;  
 }
 
+@font-face {
+    font-family: "Stereo";
+    src: url("/media/stereo-r.woff2") format("woff2");
+    font-weight: normal;  
+}
+
 ::selection {
     background: #ffe988;
   }
 
 img {
     max-width: 100%;
+    border-radius: 30px;
   }
 
 nav {
@@ -62,11 +69,14 @@ ul li {
 blockquote p {padding: 10px;
     background-color: #fcfee6;
     border-radius: 155px 15px 125px 15px/15px 125px 15px 155px;
-    border:solid 5px firebrick;
+    border:solid 3px firebrick;
+    font-family: Stereo, sans-serif;
+    font-size: 21px;
     color: black;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
+    -webkit-transform:rotate(-3deg);transform:rotate(-3deg);
 }
 
 a {

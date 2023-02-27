@@ -5,7 +5,7 @@ body {
     float: none;
     text-align: left;
     font-family: Dolby, serif;
-    font-size: 21px;
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: black;
     background-color: white;
     font-variant-ligatures: normal;
@@ -67,16 +67,13 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    background-color: #fcfee6;
-    border-radius: 155px 15px 125px 15px/15px 125px 15px 155px;
-    border:solid 3px firebrick;
+    background-color: #fcfee6
     font-family: Stereo, sans-serif;
-    font-size: 21px;
-    color: black;
+    font-size: 0.8em;
+    color: dimgray;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
-    -webkit-transform:rotate(-3deg);transform:rotate(-3deg);
 }
 
 a {

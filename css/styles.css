@@ -67,15 +67,13 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    background-color: #fcfee6;
-    border-radius: 155px 15px 125px 15px/15px 125px 15px 155px;
-    border:solid 3px firebrick;
+    background-color: #fcfee6
     font-family: Stereo, sans-serif;
-    color: black;
+    font-size: 0.8em;
+    color: dimgray;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
-    -webkit-transform:rotate(-3deg);transform:rotate(-3deg);
 }
 
 a {

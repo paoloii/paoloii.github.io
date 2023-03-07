@@ -31,11 +31,6 @@ font-style: italic;
     font-weight: bold;  
 }
 
-@font-face {
-    font-family: "Stereo";
-    src: url("/media/stereo-r.woff2") format("woff2");
-    font-weight: normal;  
-}
 
 ::selection {
     background: #ffe988;
@@ -67,9 +62,8 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    font-family: "Stereo", sans-serif;
     font-size: 0.8em;
-    color: dimgray;
+    color: #303030;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;

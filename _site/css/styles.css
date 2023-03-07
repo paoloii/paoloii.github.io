@@ -4,7 +4,7 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: Dolby, serif;
+    font-family: "Dolby", serif;
     font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: black;
     background-color: white;
@@ -67,8 +67,7 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    background-color: #fcfee6
-    font-family: Stereo, sans-serif;
+    font-family: "Stereo", sans-serif;
     font-size: 0.8em;
     color: dimgray;
     margin: 0 1rem;

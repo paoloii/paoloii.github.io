@@ -1,13 +1,13 @@
 body {
-    max-width: 60ch;
+    max-width: 42ch;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: "Dolby", serif;
+    font-family: "Dolby", sans-serif;
     font-size: clamp(1.2rem, 3vw, 1.8rem);
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
     font-variant-ligatures: normal;
     line-height: 1.5;
     font-smooth: always;
@@ -63,7 +63,7 @@ ul li {
 
 blockquote p {padding: 10px;
     font-size: 0.8em;
-    color: #303030;
+    color: pink;
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
@@ -71,7 +71,7 @@ blockquote p {padding: 10px;
 
 a {
     text-decoration: none;
-    color: firebrick;
+    color: red;
 }
 
 

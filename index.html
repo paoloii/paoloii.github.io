@@ -9,7 +9,7 @@ title:
 
 
 
-   {% for post in site.posts %}
+   {% for post in site.posts limit:1 %}
   <article>
     <h4>
       <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>

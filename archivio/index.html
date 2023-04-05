@@ -1,0 +1,20 @@
+---
+layout: default
+title: 
+---
+
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"
+</head>
+
+
+
+   {% for post in site.posts %}
+  <article>
+    <h4>
+      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </h4>
+ 
+    {{ post.content }}
+  </article>
+{% endfor %}

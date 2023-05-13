@@ -1,13 +1,13 @@
 body {
-    max-width: 50ch;
+    max-width: 60ch;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
     font-family: "Dolby", sans-serif;
-    font-size: clamp(1.2rem, 3vw, 2.4rem);
-    color: white;
-    background-color: black;
+    font-size: 23px;
+    color: black;
+    background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.5;
     font-smooth: always;
@@ -17,16 +17,13 @@ body {
     font-family: "Dolby";
     src: url("/media/dolby-r.woff2") format("woff2");
     font-style: normal;
-    font weight: 200 700;
   }
 
   @font-face {
     font-family: "Dolby";
     src: url("/media/dolby-i.woff2") format("woff2");
 font-style: italic;  
-font-weight: 200 700;
 }
-
 
 
 ::selection {
@@ -60,7 +57,7 @@ ul li {
 
 blockquote p {padding: 10px;
     font-size: 0.8em;
-    color: pink;
+    color: rgb(15, 15, 15);
     margin: 0 1rem;
     text-align: left;
     padding: 0.8rem 1rem;
@@ -87,13 +84,13 @@ h3 {
 h4 {text-align: center;
     font-size: 80%;
 	text-transform: uppercase;
-    color:white;
+    color: black;
 }
 
 h5 {text-align: center;
     font-size: 0.8em;
 	font-weight: 300;
-color: white;}    
+color: black;}    
 
 .avatar {
     vertical-align: middle;

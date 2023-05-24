@@ -4,8 +4,8 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: "Dolby", sans-serif;
-    font-size: 23px;
+    font-family: "Dolby", serif;
+    font-size: 22px;
     color: black;
     background-color: white;
     font-variant-ligatures: normal;
@@ -24,7 +24,6 @@ body {
     src: url("/media/dolby-i.woff2") format("woff2");
 font-style: italic;  
 }
-
 
 ::selection {
     background: #ffe988;

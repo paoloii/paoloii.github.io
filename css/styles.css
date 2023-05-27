@@ -4,25 +4,13 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: "Dolby", serif;
-    font-size: 22px;
+    font-family: system-ui, sans-serif;
+    font-size: 18px;
     color: black;
     background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.5;
     font-smooth: always;
-}
-
-@font-face {
-    font-family: "Dolby";
-    src: url("/media/dolby-r.woff2") format("woff2");
-    font-style: normal;
-  }
-
-  @font-face {
-    font-family: "Dolby";
-    src: url("/media/dolby-i.woff2") format("woff2");
-font-style: italic;  
 }
 
 ::selection {

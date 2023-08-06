@@ -1,14 +1,15 @@
 body {
-    max-width: 80ch;
+    max-width: 60ch;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: monospace;
+    font-family: sans-serif;
+    text-transfor: uppercase;
     font-size: 14px;
     color: black;
     font-weight: 300;
-    background-color: cornsilk;
+    background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.6;
     font-smooth: always;

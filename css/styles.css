@@ -1,18 +1,35 @@
 body {
-    max-width: 36ch;
+    max-width: 60ch;
     margin: auto;
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: sans-serif;
+    font-family: Dolby;
     text-align: justify;
     font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: black;
-    font-weight: 300;
+    font-weight: 400;
     background-color: lightyellow;
     font-variant-ligatures: normal;
     line-height: 1.6;
     font-smooth: always;
+}
+
+
+@font-face {
+  font-display: swap;
+  font-family: 'Dolby';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/media/dolby-r.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Dolby';
+  font-style: normal;
+  font-weight: bold;
+  src: url('/media/dolby-b.woff2') format('woff2');
 }
 
 ::selection {

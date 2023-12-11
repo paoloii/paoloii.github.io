@@ -4,25 +4,32 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: "Dolby", serif;
-    font-size: 22px;
+    font-family: Dolby;
+    text-align: justify;
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: black;
-    background-color: white;
+    font-weight: 400;
+    background-color: lightyellow;
     font-variant-ligatures: normal;
-    line-height: 1.5;
+    line-height: 1.6;
     font-smooth: always;
 }
 
-@font-face {
-    font-family: "Dolby";
-    src: url("/media/dolby-r.woff2") format("woff2");
-    font-style: normal;
-  }
 
-  @font-face {
-    font-family: "Dolby";
-    src: url("/media/dolby-i.woff2") format("woff2");
-font-style: italic;  
+@font-face {
+  font-display: swap;
+  font-family: 'Dolby';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/media/dolby-r.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Dolby';
+  font-style: normal;
+  font-weight: bold;
+  src: url('/media/dolby-b.woff2') format('woff2');
 }
 
 ::selection {
@@ -72,6 +79,7 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 150%;
+    font-family: sans-serif;
 }
 
 h3 {

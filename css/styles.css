@@ -9,7 +9,7 @@ body {
     font-size: clamp(1.2rem, 3vw, 1.8rem);
     color: black;
     font-weight: 400;
-    background-color: lightyellow;
+    background-color: white;
     font-variant-ligatures: normal;
     line-height: 1.6;
     font-smooth: always;

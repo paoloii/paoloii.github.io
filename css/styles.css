@@ -6,7 +6,7 @@ body {
     text-align: left;
     font-family: Dolby;
     text-align: justify;
-    font-size: clamp(1.2rem, 3vw, 1.8rem);
+    font-size: 16px;
     color: black;
     font-weight: 400;
     background-color: white;

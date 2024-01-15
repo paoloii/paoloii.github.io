@@ -24,14 +24,6 @@ body {
   src: url('/media/dolby-r.woff2') format('woff2');
 }
 
-@font-face {
-  font-display: swap;
-  font-family: 'Dolby';
-  font-style: normal;
-  font-weight: bold;
-  src: url('/media/dolby-b.woff2') format('woff2');
-}
-
 ::selection {
     background: #ffe988;
   }

@@ -4,13 +4,13 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: system-ui;
+    font-family: Dolby;
     text-align: justify;
     font-size: 16px;
     color: black;
     font-weight: 400;
     background-color: white;
-    font-variant-ligatures: normal;
+    font-variant-ligatures: none;
     line-height: 1.6;
     font-smooth: always;
 }

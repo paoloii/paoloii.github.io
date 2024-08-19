@@ -4,13 +4,13 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: Dolby;
+    font-family: Dolby, sans-serif;
     text-align: justify;
-    font-size: clamp(1.2rem, 3vw, 1.8rem);
+    font-size: 18px;
     color: black;
     font-weight: 400;
-    background-color: lightyellow;
-    font-variant-ligatures: normal;
+    background-color: white;
+    font-variant-ligatures: none;
     line-height: 1.6;
     font-smooth: always;
 }
@@ -22,14 +22,6 @@ body {
   font-style: normal;
   font-weight: 400;
   src: url('/media/dolby-r.woff2') format('woff2');
-}
-
-@font-face {
-  font-display: swap;
-  font-family: 'Dolby';
-  font-style: normal;
-  font-weight: bold;
-  src: url('/media/dolby-b.woff2') format('woff2');
 }
 
 ::selection {
@@ -62,7 +54,7 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: rgb(15, 15, 15);
     margin: 0 1rem;
     text-align: left;
@@ -79,7 +71,6 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 150%;
-    font-family: sans-serif;
 }
 
 h3 {
@@ -89,7 +80,7 @@ h3 {
 }
 
 h4 {text-align: center;
-    font-size: 80%;
+    font-size: 90%;
 	text-transform: uppercase;
     color: black;
 }

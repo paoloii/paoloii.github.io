@@ -4,9 +4,9 @@ body {
     padding: 20px;
     float: none;
     text-align: left;
-    font-family: system-ui;
+    font-family: Dolby, sans-serif;
     text-align: justify;
-    font-size: 16px;
+    font-size: 18px;
     color: black;
     font-weight: 400;
     background-color: white;
@@ -54,7 +54,7 @@ ul li {
 }
 
 blockquote p {padding: 10px;
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: rgb(15, 15, 15);
     margin: 0 1rem;
     text-align: left;
@@ -71,7 +71,6 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 150%;
-    font-family: sans-serif;
 }
 
 h3 {
@@ -81,7 +80,7 @@ h3 {
 }
 
 h4 {text-align: center;
-    font-size: 80%;
+    font-size: 90%;
 	text-transform: uppercase;
     color: black;
 }

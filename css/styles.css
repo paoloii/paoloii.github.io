@@ -51,6 +51,7 @@ nav ul li {
 
 ul li {
   list-style-type: '* ';
+  text-align: left;
 }
 
 blockquote p {padding: 10px;
@@ -89,6 +90,10 @@ h5 {text-align: center;
     font-size: 0.8em;
 	font-weight: 300;
 color: black;}    
+
+h6 {  font-size: 1em;
+color: darkgreen;
+font-weight: 300;}
 
 .avatar {
     vertical-align: middle;

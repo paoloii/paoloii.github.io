@@ -169,7 +169,7 @@ src="paoloippoliti-1971-003-th.jpg">
 
 come specie siamo soliti definire la libertà di parola come il diritto a cercare, ricevere e diffondere informazioni e idee. da qualche giorno la temperatura è salita così tanto da trasformare tutti in micce e andrà probabilmente peggiorando, con buona pace di chi più che miccia ormai da troppo tempo s’è sentito esploso e permane oggi tra le fiamme ancora in danza come il più risico dei residui minerali possibili. per questa libertà, poiché in tendenza controalchemica c’è parsa un’idea sgargiante congelare in diktat per ciascuno le ormai vetuste opinioni d’insulso altro, esistono veti di statuto, casi limite ove non pare opportuno potersene avvalere: questa è solo un’ora di musica accavallata e sfrangiata, condotta con l’impeto dei cocchi immolati al dio Sole a sfracellarsi agli apici di volta dei volumi, congiurata in esistenza con a mente chi detta musica prova ancora ad ascoltarla e tra mille biechi tiri e spinte di distrazioni contundenti non riesce, e non sa più ormai se davvero vorrebbe e che sta succedendo veramente. di questa libertà, sottraendoci al reticolo delle planimetrie sociali, ce ne si può anche disfare: nello Dzogchen lo scrigno del cranio serba soltanto un infinito spazio, nello spandersi del quale partiamo come micce di molotov e ci sciogliamo in garuda, una scossa e un singhiozzo via l’altro, come se il processo fosse affine al volgersi in lupi mannari. o forse, appena lupi: fieri, affamati, colmi soltanto d’incontenibili ululare. si consiglia un volume assordante. buon ascolto.
 
-<h6>on the other hand the English paragraph says something else entirely, and where the Italian swerves and dwindles down two stumps of a sentence and a half gnawed concept leaving you dizzy and perplexed at best, in case you held your breath long enough to reach its end you’ll see that the parameters of these texts are always very much the same: the syntax as garbled as complex the concept appears to the querent — be it the writer in his rags and bones or the person trying to make sense of its lines a thousand years later and speaking a language absolutely else — the occultural references, the anarchist kickbacks and the deus-ex-machina arrival of Buddhist passepartouts just in time to save the day. this is an hour of sound that it’s born for burning and more than that, it needs to burn to be born. the rest is an uproar of beauty, a lure of sirens unheard, and of that, only your ears will tell. play loud. enjoy.</h6>
+<h6>on the other hand the English paragraph says something else entirely, and where the Italian swerves and dwindles down two stumps of a sentence and a half gnawed concept leaving you dizzy and perplexed at best, in case you held your breath long enough to reach its end you’ll see that the parameters of these texts are always very much the same: the syntax as garbled as complex the concept appears to the querent — be it the writer in his rags and bones or the person trying to make sense of its lines a thousand years later and speaking a language absolutely else — the occultural references, the anarchist kickbacks and the deus-ex-machina arrival of Buddhist passepartouts just in time to save the day. this is an hour of sound that is born for burning and more than that, it needs to burn to be born. the rest is an uproar of beauty, a lure of sirens unheard, and of that, only your ears will tell. play loud. enjoy.</h6>
 
 *******************************
 
@@ -288,5 +288,64 @@ TRACKLIST
 - Edgar Froese - Upland
 - Lionel Marchetti & Échange Magnétique - Tape Ex. Re - 702
 - Alan Sorrenti - Vorrei incontrarti
+
+-----
+
+**1971 // 005 - siamo circondati da foglie che cadono**
+
+![](paoloippoliti-1971-005.jpg)
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/player.style/sutro-audio/+esm"></script>
+
+<media-theme-sutro-audio
+  style="--media-primary-color: #ffffff; --media-secondary-color: #000000;"
+>
+  <audio
+    slot="media"
+    src="https://pantano.ovh/upload/1971/2024-11-05-005---siamo-circondati-da-foglie-che-cadono/2024-11-05-005---siamo-circondati-da-foglie-che-cadono.mp3"
+    playsinline
+    crossorigin
+  ></audio>
+    <media-poster-image
+    slot="poster"
+src="paoloippoliti-1971-005-th.jpg">
+  </media-poster-image>
+</media-theme-sutro-audio>
+
+e al proprio capodanno, una furente manifestazione di vitalità: così va segnalato alla vita, col moto e col respiro nella luce, con l'anima che si concentra nella lancia e resta in bilico a ricalibrare l'esplodere come rapaci remoti in altissima quota; è il transito della mente aquilone l'unica ancora, l'ufo rotante nel cuore l'inespugnabile salvezza.
+
+*******************************
+
+TRACKLIST
+
+>- Acherontia Atropos - Up next
+- Elio Martusciello & Fabrizio Casti - Empty Box
+- Cesare Basile - U Iornu Du Signuri
+- Zuli - Prayer (وأصلي الفرض)
+- Roscoe Mitchell - Sunlight On Ice
+- Silvia Tarozzi - Mi specchio e mi rifletto
+- Bruno Roche & Lionel Marchetti - ABRAXAS (son seul)
+- Al-Mutreb Abul-Loul feat. 1800s Internet - MARAD Prelude
+- Bryn Davis - Glou glou
+- Dronedeus - Na casa da esquina
+- Eiko Ishibashi - I Don't Know Where To Go
+- AmusementInsider - VALKYRIA DIVE MACHINE, Liseberg, POV Front Row/Off-Ride
+- Anoushka Shankar - Guru: Raga jogeshwari - Jod, jhala
+- Alaskan Tapes - Glimpse
+- Betty Hammerschlag - Getting Soft Drinks 4PM
+- Unknown Artist - Brown wax home recording of child singing all alone
+- Bernhard Gunter - Un Lieu Pareil A Un Point Efface, 1 Partie
+- Diego Raposo - El tiempo no existe
+- Trentemøller - Asfalt
+- Darius Jones - Fluxus V5T 1S1
+- Hans Appelqvist- Grammofonnummer
+- Lawrence English - Watching It Unfold
+- La Nòvia - Il a sonné minuit - Aubade du château d'Ancelle
+- Marcel Sletten - Elizabeth St, Red Hook, NY
+- Mark Harwood - Scene VII
+- Nix Northwest - Paradise Pending
+- Markus Guentner & Karen Vogt - All Light Will Remain
+- Marewrew - Yaykatekara
+- Nick Drake - Hanging On A Star
 
 -----

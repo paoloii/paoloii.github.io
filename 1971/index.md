@@ -349,3 +349,55 @@ TRACKLIST
 - Nick Drake - Hanging On A Star
 
 -----
+
+
+**1971 // 006 - milioni di millenni in orbita
+
+![](paoloippoliti-1971-006.jpg)
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/player.style/sutro-audio/+esm"></script>
+
+<media-theme-sutro-audio
+  style="--media-primary-color: #ffffff; --media-secondary-color: #000000;"
+>
+  <audio
+    slot="media"
+    src="https://pantano.ovh/upload/1971/2024-11-05-005---siamo-circondati-da-foglie-che-cadono/2024-11-05-005---siamo-circondati-da-foglie-che-cadono.mp3"
+    playsinline
+    crossorigin
+  ></audio>
+    <media-poster-image
+    slot="poster"
+src="paoloippoliti-1971-006-th.jpg">
+  </media-poster-image>
+</media-theme-sutro-audio>
+
+proprio l’idea di salire in cima a una vetta, disporre a nuda terra alpenhorn e dungchen, cave ossa e canne, e poi soffiare e soffiare per sempre, senza pensare più all’afflato, al fiato: sarà aperta la caccia al cielo, dove come in Savari, la freccia che scocchi non esiste quanto il cervo che andrà a trafiggere, c’è solo percezione, miraggio, nettare celeste che t’ottunde i sensi, è tutto solo miraggio e nulla è mai nato, nulla muore. nulla è in catene e nulla è liberato.
+
+<h6>the idea of reaching a peak, whatever peak, and lying alpenhorns and dungchens on the naked ground, hollow bones and reeds, and blow into them forever without even minding the breath, the wind: the hunt to the sky is on, and like in Savari, the arrow you shoot is as devoid of existence as the deer it will hit, it’s just perception, mirage, celestial nectar stunning your senses as a whole, all of it just a mirage and nothing is born, nothing dies. nothing is in chain and nothing is liberated.</h6>
+
+*******************************
+
+TRACKLIST
+
+>- Leila Bordreuil - Spirit Rising / Years Of Dreams
+- Delia Derbyshire & Elsa Stansfield - Circle of Light, Pt. 1
+- Logoplasm - Astronauta Due
+- Whitney Johnson & Matchess - Dafni
+- John Butcher - Close by, a Waterfall
+- Nobile - La foresta cremisi è densa di funghi distorti
+- Masayuki Imanishi - Climate
+- Yuko Araki - Glitchy Geza
+- Ian William Craig - Poire
+- Almost Automatic Landscapes - Cooling Telescope Lense
+- David Grubbs & Taku Unami - The Furthest Farthest
+- Clone Rainbow - I Thought You Were A Ghost
+- Frances White, Valeria Vasilevski, Kristin Norderval – V
+- Eleh - Death Is Eternal Bliss
+- Simon Whetham - Compaction
+- Kristin Norderval - A Summons
+- Russell Haswell - Heavy Handed Sunset (Autechre Form Conversion)
+- Logoplasm ft. Adriano Scerna, Marco Carcasi, Chiara Chianese - Tu Come Un Pony Correvi
+
+-----
+

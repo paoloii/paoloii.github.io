@@ -36,7 +36,7 @@ La parola *esordio* deriva dal latino *exordiri*,  che alludeva all’aver dato 
 Si consiglia un volume assordante.  
 Buon ascolto.
 
-<h6>To describe a <i>debut,</i> Italian language uses the word <i>esordio,</i> which shadows the Latin *exordiri,* the act of setting the weft over which a warp will be spun. This is the first episode of b>1971/b>, its actual debut: the weft is gone, and as the warp approaches its  supernova state all we ever hear of the tracks that weave it is tatters  at best, old overexposed photographs too dim to be told apart. A list of the same has been rebuilt from memory upon relistening and is thereby  to be considered partial and as a measure of their sequence of entry  into the mix: everything is overlayered, slowed down, overblown and  illusorily perceived, just like a normal day on Earth.  
+<h6>To describe a <i>debut,</i> Italian language uses the word <i>esordio,</i> which shadows the Latin *exordiri,* the act of setting the weft over which a warp will be spun. This is the first episode of <b>1971</b>, its actual debut: the weft is gone, and as the warp approaches its  supernova state all we ever hear of the tracks that weave it is tatters  at best, old overexposed photographs too dim to be told apart. A list of the same has been rebuilt from memory upon relistening and is thereby  to be considered partial and as a measure of their sequence of entry  into the mix: everything is overlayered, slowed down, overblown and  illusorily perceived, just like a normal day on Earth.  
 Play loud.  
 Enjoy.</h6>
 

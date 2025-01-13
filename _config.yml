@@ -4,3 +4,4 @@ lang: it
 url: "https://tsunaminotes.org"
 baseurl: ""
 permalink: :year-:month-:day-:title
+

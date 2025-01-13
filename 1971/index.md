@@ -351,7 +351,7 @@ TRACKLIST
 -----
 
 
-**1971 // 006 - milioni di millenni in orbita
+**1971 // 006 - milioni di millenni in orbita**
 
 ![](paoloippoliti-1971-006.jpg)
 
@@ -362,7 +362,7 @@ TRACKLIST
 >
   <audio
     slot="media"
-    src="https://pantano.ovh/upload/1971/2024-11-05-005---siamo-circondati-da-foglie-che-cadono/2024-11-05-005---siamo-circondati-da-foglie-che-cadono.mp3"
+    src="https://pantano.ovh/upload/1971/2024-12-03-006--milioni-di-millenni-in-orbita/2024-12-03-006--milioni-di-millenni-in-orbita.mp3"
     playsinline
     crossorigin
   ></audio>
@@ -401,3 +401,63 @@ TRACKLIST
 
 -----
 
+**1971 // 007 - sempre più ilari indicano che quelle macchie siamo noi**
+
+![](paoloippoliti-1971-007.jpg)
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/player.style/sutro-audio/+esm"></script>
+
+<media-theme-sutro-audio
+  style="--media-primary-color: #ffffff; --media-secondary-color: #000000;"
+>
+  <audio
+    slot="media"
+    src="https://pantano.ovh/upload/1971/2024-12-31-007---sempre-pi-ilari-indicano-che-quelle-macchie-siamo-noi/2024-12-31-007---sempre-pi-ilari-indicano-che-quelle-macchie-siamo-noi.mp3"
+    playsinline
+    crossorigin
+  ></audio>
+    <media-poster-image
+    slot="poster"
+src="paoloippoliti-1971-007-th.jpg">
+  </media-poster-image>
+</media-theme-sutro-audio>
+
+gli anni come liane e poi gli anni come massi e poi gli anni come falci e scuri, e poi gli anni come eventi e venti che bellamente ignoriamo, continuando imperterriti, divagando giulivi, cabrando indietro ai loop dell’infanzia, ai maladattamenti della crescita, i grumi di strategie fallaci tenute assieme a scotch, elastichetti, mezza preghiera in croce e un mantra al vuoto, e poi via in strade e dimore a incitarci desideri di rado comprensibili, ad inscenarne gli scrigni di pitoni, i vasi di Pandora, le sagole umorali che resistono alle vele del destino. la civiltà è un gioco a somma zero e oggi, del set, è questo il suono: i fili dei burattini che si spezzano, l’istante senza fine mentre il selciato s’avvicina. la liberazione nel volo.
+
+<h6>years like lianas, years like boulders, years like scythes and axes, years like events and gales that we comfortably dismiss while going forward undaunted, rambling on gleefully, climbing back to our childhood loops, the maladaptations of growing up, the flawed plans clumped together with rubber bands and tape, half a prayer over the coals and a mantra to the void, and then out in streets and homes spurring seldom coherent urges, staging out their trunks overflowing with pythons, their Pandora boxes, the humoral lanyards withstanding the sails of fate. civilization is a zero sum game, and that’s the sound of today’s set: the puppet strings snapping, the everlasting moment as the ground come closer. the liberation in the flight.</h6>
+
+*******************************
+
+TRACKLIST
+
+- Paolo Ippoliti - 2024-12-25-T12.22.51
+- Marlon DuBois - Opp
+- Egisto Macchi (as Cinedelic) - La Notte Nel Deserto
+- Biliana Voutchkova & Charmaine Lee - That’s always been short moments, for these long days, or long time
+- djTrio - New York, 8-21-2003
+- Earthen Sea - String Loops
+- Brian Eno - The Real
+- Beatrice Dillon & Explore Ensemble - Seven Reorganisations II
+- Clone Rainbow - I've Seen You Somewhere Before
+- Cornelius Cardew - Material (Version II)
+- Francis Dhomont - La muraille d'epines
+- Bescolour - The Denbowh Endeition
+- Frank Ocean - White Ferrari
+- Fátima Miranda - Hálito
+- Hildegard Westerkamp - Cricket Voice
+- Nour Mobarak - Eye Of Donkey
+- Nova Varnrable - Split (Sister Marion Dub)
+- Rebekah Heller - My Voice
+- Ian William Craig - Aphrodite
+- Lamina - Dissolution
+- Mike Cooper - My Bones And My Flute
+- Morphogenesis - Stentor № 1
+- Rod Modell - Beach
+- Richard Skelton - Under Glottal
+- Roberto Musci - Virgin Of The Dawn
+- Richard Reed Parry - Clouding Clouds
+- Susanne Brokesch - Cantate #1 Part 6
+- Spivak ft. Rose Higham-Stainton - Parchment
+- Brast Burn - Debon Part 2
+
+-----

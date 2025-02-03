@@ -461,3 +461,76 @@ TRACKLIST
 - Brast Burn - Debon Part 2
 
 -----
+
+**1971 // 008 - a segno che ci siamo stati**
+
+![](paoloippoliti-1971-008.jpg)
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/player.style/sutro-audio/+esm"></script>
+
+<media-theme-sutro-audio
+  style="--media-primary-color: #ffffff; --media-secondary-color: #000000;"
+>
+  <audio
+    slot="media"
+    src="https://pantano.ovh/upload/1971/2025-01-28-008---a-segno-che-ci-siamo-stati/2025-01-28-008---a-segno-che-ci-siamo-stati.mp3"
+    playsinline
+    crossorigin
+  ></audio>
+    <media-poster-image
+    slot="poster"
+src="paoloippoliti-1971-008-th.jpg">
+  </media-poster-image>
+</media-theme-sutro-audio>
+
+la risoluzione richiede disimparare, disipnotizzarsi, comprendere la percepita asimmetria delle battaglie in corso come un invito a impiegare il peso dell’avversario per scagliarlo rovinosamente a terra o via lontano.
+il contesto è la gravità, è l’onnipresenza sensoriale del tempo che s’è vissuti, si vive e si vivrà e delle dimensioni possibili in cui irrefrenabilmente inondando procede a sfociare.
+vivi lo siamo in vermoni miriadimensionali lunghi la spanna di quanto ci batte il cuore, per il nostro sempre e comunque, migliaia di bocche e migliaia di occhi per ogni istante senza tempo a venire, un idillico istante esteso per sempre.
+
+spargi la luce ovunque e rendi evidente il buio.
+alza il volume al massimo, ma proprio nella vita, e buon ascolto.
+
+<h6>a resolution asks for unlearning, dishypnotizing, understanding the perceived asymmetry of ongoing fights as an invitation to employ the weight of your opponent to hurl them to the ground or far away.
+the context is gravity, it's the sensory omnipresence of the time, you live, are living and will live and all the possible dimensions in which, unstoppably flooding, it will emerge into.
+we are alive as myriadimensional worms spanning how long our hearts beat, for our forever and however, thousands of mouths and thousands of eyes for all the timeless time to come, an idyllic instant spanning forever.
+
+spread the light everywhere and make the darkness evident.
+crank up the volume, in your whole life I mean, and enjoy.</h6>
+
+*******************************
+
+TRACKLIST
+
+
+- Benjamin Dantès - Coeur incertain
+- Acteurs - Dusk Removing
+- Atrás del Cosmos - Hanne IV
+- Ariel Kalma - Warm Harbour
+- Andrew Chalk - The Lighthouse
+- Muḥyiddīn Ba‘yun - A ya hind mahlan
+- Bruce Brubaker - Che Pena Questa
+- Carlo Giustini - Nei Sentieri Che Furono / Sant'Angelo Ti sento / Preghiera Su Walkman (Zolfo)
+- Robert Rich - Delusion Fields
+- Brahja - Medicine Woman
+- Phase Duo - Accidental Intelligence
+- Pholas Dactylus - Concerto Delle Menti
+- Clarence Rise - Equinox
+- NUG - Mud
+- Olli Aarni - Hehkuva maja
+- Pierre Huguet - Buse cendrée / Buteo nitidus / Grey-lined Hawk
+- Real Bad Man and Lukah (feat. Stooky Bros) - The AMA
+- Pierre Huguet - Batara fascié / Cymbilaimus Lineatus / Fasciated Antshrike
+- Richard Skelton - Against Bite And Rend Of Snake
+- Rodrigo Gallardo (feat. Huaira)- Maria Sabina
+- Spencer Zahn - Curious Frame
+- Sote - Reign of Insanity
+- Sandra Boss - Magnetiske Punkter
+- Raz Mesinai - Snakeskin
+- nthng - Hypnotherapy
+- Midori Hirano - Echoes of the Future
+- Mark Vernon - The Years Simply Dissolved
+- Nazar Mohammad Soleymâni - Hezâregi
+- Ms. Carrie Stacks - Is My Living In Vain
+- Mez - Hunt For The Pumps 2
+
+-----

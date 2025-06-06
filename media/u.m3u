@@ -174,3 +174,5 @@ https://stream-relay-geo.ntslive.net/stream
 https://stream-relay-geo.ntslive.net/stream2
 #EXTINF:-1 tvg-name="FANGO RADIO"
 http://pantano.ovh:8000/pantano.m3u
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it@HD",SuperTennis HD

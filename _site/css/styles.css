@@ -5,13 +5,14 @@ body {
     float: none;
     text-align: left;
     font-family: Dolby, sans-serif;
-    font-size: clamp(1.2rem, 3vw, 1.8rem);
-    color: white;
+    font-size: 18px;
+    color: black;
     font-weight: 400;
-    background-color: black;
+    background-color: white;
     font-variant-ligatures: none;
     line-height: 1.6;
-    font-smooth: always;
+    font-smooth: auto;
+	letter-spacing: normal;
 }
 
 

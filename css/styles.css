@@ -1,5 +1,5 @@
 body {
-    max-width: 60ch;
+    max-width: 72ch;
     margin: auto;
     padding: 20px;
     float: none;
@@ -8,9 +8,9 @@ body {
     font-size: 18px;
     color: black;
     font-weight: 400;
-    background-color: white;
+    background-color: #f6f6f7;
     font-variant-ligatures: none;
-    line-height: 1.6;
+    line-height: 2;
     font-smooth: auto;
 	letter-spacing: normal;
 }
